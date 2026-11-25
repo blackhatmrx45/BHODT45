@@ -70,7 +70,7 @@ BHODT does NOT provide, endorse, or engage in:
 - **WhatsApp**: `0724332896` (International: `+94 72 433 2896`)
 - **Email**: `contact@bhodt.dev`
 - **GitHub**: `github.com/bhodt-dev`
-- **Telegram**: `@bhodt_official`
+- **Telegram**: `@blackhatmrx`
 
 ---
 
